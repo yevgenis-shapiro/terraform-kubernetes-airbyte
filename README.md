@@ -1,7 +1,7 @@
 ![64e3cad5f1bd3cef00ebe16f_645ab17ece0233ff6b96f2a6_airbyte-data-pipeline-example](https://github.com/user-attachments/assets/e6ea54f3-dba4-426a-9c8b-1c99fe8dc661)
 
 ## Terraform Module - Airbyte | ☸️
-Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes
+Airbyte is an open-source data movement infrastructure for building extract and load (EL) data pipelines. It is designed for versatility, scalability, and ease-of-use . Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes
 
 ## Key Features 
 
