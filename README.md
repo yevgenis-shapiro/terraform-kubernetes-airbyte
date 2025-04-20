@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/a227c2a9-2d28-4db3-81a8-38d2cc06c455)
-
+![getting-started-destination-catalog-da78629c258ab4d07ee930cc2ac11ff2](https://github.com/user-attachments/assets/9c1ad6bd-25e9-455a-8380-5216c3c95139)
 
 
 ## Terraform Module - Airbyte | ☸️
