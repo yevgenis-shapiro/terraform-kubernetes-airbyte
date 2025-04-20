@@ -1,5 +1,4 @@
-![64aeb8af6351d4930c019cb5_Set up a source](https://github.com/user-attachments/assets/c6465b80-aedf-4290-b835-2bd302e2628b)
-
+![64e3cad5f1bd3cef00ebe16f_645ab17ece0233ff6b96f2a6_airbyte-data-pipeline-example](https://github.com/user-attachments/assets/e6ea54f3-dba4-426a-9c8b-1c99fe8dc661)
 
 ## Terraform Module - Airbyte | ☸️
 Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes
