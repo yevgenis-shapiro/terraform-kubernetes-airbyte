@@ -1,4 +1,4 @@
-![66fc29cdf9719a398d3d4e7d_62868370a4afd90a3abb4024_airbyte-connectors](https://github.com/user-attachments/assets/a3a5cd5e-de64-48a4-8523-732bc8612e02)
+![image](https://github.com/user-attachments/assets/22488f9f-52d6-4859-92b8-15cc522d1699)
 
 
 ## Terraform Module - Airbyte | ☸️
