@@ -1,5 +1,4 @@
-![623207e2dc0af278743f76be_airbyte](https://github.com/user-attachments/assets/22b8cecc-5a32-4e7e-ad4d-edd9ef3680c1)
-![205949986-5207ca24-f1f0-41b1-97e1-a0745a0de55a](https://github.com/user-attachments/assets/cbf1a8ec-5724-41f3-809b-1d51b619aa9b)
+![image](https://github.com/user-attachments/assets/10b5332f-9044-46a8-8516-c02232af40a4)
 
 
 ## Terraform Module - Airbyte | ☸️
