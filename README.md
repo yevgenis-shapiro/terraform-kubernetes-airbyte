@@ -2,7 +2,7 @@
 
 
 ## Terraform Module - Airbyte | ☸️
-Metabase is an open-source business intelligence platform. You can use Metabase to ask questions about your data, or embed Metabase in your app to let your customers explore their data on their own.
+Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes
 
 ## Key Features 
 
