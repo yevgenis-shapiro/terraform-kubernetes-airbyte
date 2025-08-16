@@ -1,6 +1,6 @@
 ![64e3cad5f1bd3cef00ebe16f_645ab17ece0233ff6b96f2a6_airbyte-data-pipeline-example](https://github.com/user-attachments/assets/e6ea54f3-dba4-426a-9c8b-1c99fe8dc661)
 
-## Terraform Module - Airbyte | ☸️
+## Kubernetes - Airbyte | ☸️
 Airbyte is an open-source data movement infrastructure for building extract and load (EL) data pipelines. It is designed for versatility, scalability, and ease-of-use . Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes
 
 ## Key Features 
@@ -20,3 +20,13 @@ Airbyte is an open-source data movement infrastructure for building extract and 
 - ✒️ Set up alerts to have Metabase notify you when your data changes.
 
 - ✒️Embed charts and dashboards in your app, or even your entire Metabase.
+
+
+
+🔨 Example :
+```
+terraform init
+terraform validate
+terraform plan -var-file="template.tfvars"
+terraform apply -var-file="template.tfvars" -auto-approve
+```
