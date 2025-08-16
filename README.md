@@ -1,7 +1,7 @@
 <img width="1737" height="682" alt="435474016-e6ea54f3-dba4-426a-9c8b-1c99fe8dc661" src="https://github.com/user-attachments/assets/cd1b39ba-d0c8-4dec-b612-a235102a6a60" />
 
 
-## Kubernetes - Airbyte | ☸️
+## Airbyte | Kubernetes ☸️
 Airbyte is an open-source data movement infrastructure for building extract and load (EL) data pipelines. It is designed for versatility, scalability, and ease-of-use . Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes
 
 #### 🎯 Key Features:
