@@ -6,8 +6,9 @@ Airbyte is an open-source data movement infrastructure for building extract and 
 
 #### 🎯 Key Features:
    - **Wide Connector Ecosystem**:
-   - Sources: Supports hundreds of data sources like databases (PostgreSQL, MySQL), SaaS apps (Salesforce, HubSpot), APIs, and more.
-   - Destinations: Compatible with data warehouses, lakes, and databases (Snowflake, BigQuery, Redshift, etc.).
+   ✅ Sources: Supports hundreds of data sources like databases (PostgreSQL, MySQL), SaaS apps (Salesforce, HubSpot), APIs, and more.
+   ✅ Destinations: Compatible with data warehouses, lakes, and databases (Snowflake, BigQuery, Redshift, etc.).
+   ✅ Custom connectors: Allows building your own connectors if a source/destination isn’t available.
    - **Open-Source and Extensible**: Community-driven development enables faster updates and broader coverage.Users can extend connectors, transformations, or integrations easily.
    - **Incremental & Full Syncs**: Full Refresh: Pulls all data from the source.Incremental Sync: Only syncs new or updated data, reducing load and improving performance.
    - **Schema Management & Normalizationk**: Tracks schema changes automatically to avoid data mismatches.Offers normalization features to standardize data into a consistent, analytics-ready structure.
