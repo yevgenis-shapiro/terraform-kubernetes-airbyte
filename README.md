@@ -4,7 +4,7 @@
 ## Kubernetes - Airbyte | ☸️
 Airbyte is an open-source data movement infrastructure for building extract and load (EL) data pipelines. It is designed for versatility, scalability, and ease-of-use . Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes
 
-## Key Features 
+## Key Features 🎯
 ✅Wide Connector Ecosystem
 Sources: Supports hundreds of data sources like databases (PostgreSQL, MySQL), SaaS apps (Salesforce, HubSpot), APIs, and more.
 Destinations: Compatible with data warehouses, lakes, and databases (Snowflake, BigQuery, Redshift, etc.).
@@ -22,21 +22,27 @@ Incremental Sync: Only syncs new or updated data, reducing load and improving pe
 ✅Schema Management & Normalization
 Tracks schema changes automatically to avoid data mismatches.
 Offers normalization features to standardize data into a consistent, analytics-ready structure.
+
 ✅Scheduling & Orchestration
 Native scheduling for automated syncs.
 Can integrate with workflow orchestration tools like Airflow, dbt, or Prefect.
+
 ✅Observability & Monitoring
 Provides logs, metrics, and alerts for data pipelines.
 Helps troubleshoot failures and monitor data flow in real-time.
+
 ✅Cloud & Self-Hosted Options
 Can run self-hosted on your infrastructure for full control.
 Also available as a managed cloud service for simplified maintenance.
+
 ✅Transformation Support
 Native support for transformations using dbt or SQL-based transformations.
 Enables ELT pipelines where data is transformed after loading into the warehouse.
+
 ✅Modularity
 Decoupled architecture allows independent upgrades of connectors, scheduler, or transformations.
 Reduces complexity when scaling pipelines.
+
 ✅Security & Compliance
 Role-based access control (RBAC) for teams.
 Supports encrypted data transfers (TLS/SSL).
